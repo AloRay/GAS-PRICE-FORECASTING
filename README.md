@@ -26,4 +26,4 @@ Visualization techniques such as line plots and scatter plots are employed to il
 
 
 
-# By combining advanced statistical methods with domain knowledge, this project aims to provide valuable insights into natural gas price forecasting, enabling stakeholders to make informed decisions in the energy market domain.
+By combining advanced statistical methods with domain knowledge, this project aims to provide valuable insights into natural gas price forecasting, enabling stakeholders to make informed decisions in the energy market domain.
